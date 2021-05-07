@@ -52,7 +52,7 @@
 
 ---
 
-- ### Day 11
+<!-- - ### Day 11
 
 ---
 
@@ -61,5 +61,13 @@
 ---
 
 - ### Day 13
+
+--- -->
+
+- ### Day 14
+
+🚩DevConnect 1.0 Session by HackOn Team.
+[Link to HackOn Discord!](https://discord.com/invite/RsQQKV7)
+& [HackOn Hackathon Page](https://hackon.hackerearth.com/)
 
 ---
