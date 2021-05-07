@@ -1,6 +1,6 @@
-# Awesome-Talks and Livestreams
+# _Awesome-Talks and Livestreams_
 
-> A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code.
+> **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code**.
 
 <!-- - ### Day 1
 
@@ -37,3 +37,11 @@
 ---
 
 - 🚩[Friday chillout answering your questions about open source, freelancing, jobs and more](https://www.youtube.com/watch?v=fbhdYC3tsw8&t=1s) **With Eddie Jaoude**.
+
+---
+
+- ### Day 9
+
+- 🚩[Monthly Community Call](https://www.eddiejaoude.io/)
+
+---
