@@ -71,3 +71,9 @@
 & [HackOn Hackathon Page](https://hackon.hackerearth.com/)
 
 ---
+
+- ### Day 15
+
+🚩Leveraging Communities | All Guild Leaders All together | MLH LHD Share
+[Link to Video](https://www.youtube.com/watch?v=ZwP-BWEUTDo)
+& [CodxCrypt Youtube Channel](https://www.youtube.com/channel/UCInFaJ1OUf5UGl5soiO_8ng)
