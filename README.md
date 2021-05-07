@@ -14,11 +14,11 @@
 
 --- -->
 
-- ### Day 4
-
 ---
 
-- 🚩 [Reviewing your Open Source GitHub projects and getting you GREEN squares](https://www.youtube.com/watch?v=djpH43hsOJI) **With Eddie Jaoude**.
+- ### Day 4
+
+🚩 [Reviewing your Open Source GitHub projects and getting you GREEN squares](https://www.youtube.com/watch?v=djpH43hsOJI) **With Eddie Jaoude**.
 
 <!-- - ### Day 5
 
@@ -32,16 +32,22 @@
 
 --- -->
 
-- ### Day 8
-
 ---
 
-- 🚩[Friday chillout answering your questions about open source, freelancing, jobs and more](https://www.youtube.com/watch?v=fbhdYC3tsw8&t=1s) **With Eddie Jaoude**.
+- ### Day 8
+
+🚩[Friday chillout answering your questions about open source, freelancing, jobs and more](https://www.youtube.com/watch?v=fbhdYC3tsw8&t=1s) **With Eddie Jaoude**.
 
 ---
 
 - ### Day 9
 
-- 🚩[Monthly Community Call](https://www.eddiejaoude.io/)
+🚩[Monthly Community Call](https://www.eddiejaoude.io/)
+
+---
+
+- ### Day 10
+
+🚩[How to go freelancing for students, juniors to seniors! Khushi Sharma interviews me](https://www.youtube.com/watch?v=9ifDcq89Gws)
 
 ---
