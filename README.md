@@ -18,9 +18,9 @@
 
 ---
 
-- 🚩 [Reviewing your Open Source GitHub projects and getting you GREEN squares](https://www.youtube.com/watch?v=djpH43hsOJI) **By Eddie Jaoude**.
+- 🚩 [Reviewing your Open Source GitHub projects and getting you GREEN squares](https://www.youtube.com/watch?v=djpH43hsOJI) **With Eddie Jaoude**.
 
-- ### Day 5
+<!-- - ### Day 5
 
 ---
 
@@ -30,4 +30,10 @@
 
 - ### Day 7
 
+--- -->
+
+- ### Day 8
+
 ---
+
+- 🚩[Friday chillout answering your questions about open source, freelancing, jobs and more](https://www.youtube.com/watch?v=fbhdYC3tsw8&t=1s) **With Eddie Jaoude**.
