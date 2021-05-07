@@ -51,3 +51,7 @@
 🚩[How to go freelancing for students, juniors to seniors! Khushi Sharma interviews me](https://www.youtube.com/watch?v=9ifDcq89Gws)
 
 ---
+
+- ### Day 11
+
+---
