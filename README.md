@@ -1,12 +1,24 @@
 # _Awesome-Talks and Livestreams_
 
 > **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code.**
-> Must Join Spaces/Communities:
-> EddieHub:
-> [Website](https://www.eddiejaoude.io/)
-> [Discord Link](https://discord.gg/yGp2KDZQGw)
 
-<!-- EquiCode: -->
+---
+
+> ##### Must Join Spaces/Communities:
+
+_EddieHub:_
+
+- [Website](https://www.eddiejaoude.io/)
+- [Discord Link](https://discord.gg/yGp2KDZQGw)
+
+_EquiCode:_
+
+- [Discord Link](https://discord.gg/u4ANErvDUV)
+
+_HackOn Hackathon:_
+
+- [Discord Link](https://discord.com/invite/RsQQKV7)
+- [Register Here](https://hackon.hackerearth.com/)
 
 <!-- - ### Day 1
 
