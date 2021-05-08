@@ -1,6 +1,6 @@
-# _Awesome-Talks and Livestreams_
+# _Awesome-Talks/Livestreams & Spaces to Join_
 
-> **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code.**
+> **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code, Along with some other resources!**
 
 ---
 
