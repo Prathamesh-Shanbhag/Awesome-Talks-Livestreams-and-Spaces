@@ -1,6 +1,12 @@
 # _Awesome-Talks and Livestreams_
 
-> **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code**.
+> **A Collection of All the Talks and Livestreams I was a part of since Day 1 on my Journey of 100 Days of Code.**
+> Must Join Spaces/Communities:
+> EddieHub:
+> [Website](https://www.eddiejaoude.io/)
+> [Discord Link](https://discord.gg/yGp2KDZQGw)
+
+<!-- EquiCode: -->
 
 <!-- - ### Day 1
 
@@ -77,3 +83,9 @@
 🚩Leveraging Communities | All Guild Leaders All together | MLH LHD Share
 [Link to Video](https://www.youtube.com/watch?v=ZwP-BWEUTDo)
 & [CodxCrypt Youtube Channel](https://www.youtube.com/channel/UCInFaJ1OUf5UGl5soiO_8ng)
+
+---
+
+- ### Day 16
+
+🚩
