@@ -98,5 +98,10 @@ _HackOn Hackathon:_
 
 ---
 
+- ### Day 51
+- 🚩[#LateNightGyaan How to make it in tech - all about getting opportunities](https://www.instagram.com/tv/COn7BKVDJsT/)
+
+---
+
 - ### Day 52
 - 🚩[Link to #TwitterSpace on Mental Health & Productivity!](https://anchor.fm/prathamesh-shanbhag/episodes/TwitterSpaces-on-Mental-Health--Productivity-Hosted-by-Siddharth-Dayalwal-e10pvvf)
